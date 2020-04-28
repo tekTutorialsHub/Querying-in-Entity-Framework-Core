@@ -7,7 +7,7 @@ Querying in Entity Framework Core has not changed from its predecessor Entity Fr
 
 [First, FirstOrDefault, Single, SingleOrDefault in EF Core](https://www.tektutorialshub.com/entity-framework-core/single-singleordefault-first-firstordefault-in-ef-core/)
 
-[EF Core Find Method] (https://www.tektutorialshub.com/entity-framework-core/ef-core-find-method/)
+[EF Core Find Method](https://www.tektutorialshub.com/entity-framework-core/ef-core-find-method/)
 
 [EF Core Projection Queries](https://www.tektutorialshub.com/entity-framework-core/projection-queries-in-ef-core/)
 

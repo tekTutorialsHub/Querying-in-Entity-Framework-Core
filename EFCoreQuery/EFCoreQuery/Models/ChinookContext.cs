@@ -43,7 +43,7 @@ namespace EFCoreQuery.Models
             {
                 optionsBuilder
                     .UseLoggerFactory(MyLoggerFactory)
-                    .UseSqlServer("Server=HOME;Database=Chinook;Trusted_Connection=True;");
+                    .UseSqlServer("Server=BHOOMI;Database=Chinook;Trusted_Connection=True;");
             }
         }
 

@@ -22,7 +22,24 @@ namespace EFCoreQuery
 
 
             JoinExample joinQry = new JoinExample();
-            joinQry.Qry();
+            //joinQry.Qry();
+
+
+            IncludeExample includeExample = new IncludeExample();
+            //includeExample.Qry();
+
+            SelectManyExample selectManyQry = new SelectManyExample();
+            //selectManyQry.Qry();
+
+            ExplicitLoadingExample ex = new ExplicitLoadingExample();
+            ex.Qry();
+
+
+
+
+            //Query Examples
+            QueryExample1 Qry1 = new QueryExample1();
+            //Qry1.Qry();
 
         }
 
